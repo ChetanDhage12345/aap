@@ -1,0 +1,8 @@
+{
+  "name": "Remix My Expense Manager Pro",
+  "description": "Personal expense management application to track, categorize, budget, and analyze daily, monthly, quarterly, and yearly expenses in Indian Rupees (₹).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
